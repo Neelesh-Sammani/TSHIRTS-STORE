@@ -1,0 +1,24 @@
+.checkbox-container {
+    align-items: center;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 8px;
+  }
+
+  .filter{
+    padding-left: 20px;
+    padding-top: 10px;
+  }
+
+  /* @media (max-width: 900px) {
+    .filter {
+      display: none;
+    }
+  }
+
+  @media (min-width: 901px) {
+    .filter{
+      display: block;
+    }
+  } */

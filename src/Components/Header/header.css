@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #c2c4c3;
+  }
+  .image {
+    width: 45px;
+    height: 45px;
+  }
+
+  .icon{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+  }
